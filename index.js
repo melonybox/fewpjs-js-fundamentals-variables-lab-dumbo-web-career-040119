@@ -2,4 +2,5 @@
 
 let companyName = 'Scuber';
 
-let mostProfitableNeighborhood = 
+let mostProfitableNeighborhood = 'Chelsea';
+
